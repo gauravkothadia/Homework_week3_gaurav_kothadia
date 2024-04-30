@@ -33,5 +33,6 @@ public class Programme20_ArrayContains {
         } else {
             System.out.println(toFind + " is not found in the given array.");
         }
+        scanner.close();
     }
 }
